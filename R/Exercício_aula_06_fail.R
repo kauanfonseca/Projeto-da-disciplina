@@ -1,0 +1,7 @@
+a <-read.table("trees.txt", header = TRUE, sep="\t")
+head(a)
+summary(a)
+class(a)
+str(a)
+ls(a)
+var(a)
